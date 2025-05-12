@@ -27,4 +27,4 @@
 ## 5. 문의
 
 개인정보 관련 문의는 아래 이메일로 연락주시기 바랍니다.  
-📧 mailto:appdev1016@naver.com
+📧 [appdev1016@naver.com](mailto:appdev1016@naver.com)
